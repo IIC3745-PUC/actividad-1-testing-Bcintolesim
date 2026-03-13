@@ -14,6 +14,7 @@ En base al archivo entregado, que casos debo cubrir para obtener un 100% en los 
 ```text
 Como funciona la libreria unittest, como se puede aplicar en este caso, da ejemplos
 ```
+Autocompletacion de codigo con copilot
 **Evaluación de la respuesta:** Muy buena
 **Justificación:** Me recomendo que partes del codigo debia revisar junto con explicar como funciona la libreria con ejemplos
 **¿Requirió trabajo adicional?:** Si
